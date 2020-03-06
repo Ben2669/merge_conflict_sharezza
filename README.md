@@ -1,3 +1,5 @@
-# merge_conflict_sharezza
+﻿# merge_conflict_sharezza
 
 We are going to have some troubles.
+
+LOCAL
